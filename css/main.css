@@ -1,0 +1,21 @@
+.heading {
+  text-decoration: underline;
+}
+body {
+  text-align: center;
+  background-color: rgb(4, 4, 73);
+  color: whitesmoke;
+}
+.side {
+  text-align: left;
+  text-decoration: underline;
+  border: 5px whitesmoke;
+}
+.items {
+  text-align: left;
+}
+.img {
+  text-align: center;
+  width: 100px;
+  height: 100px;
+}
